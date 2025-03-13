@@ -6,6 +6,6 @@ Link en [Playstore](https://play.google.com/store/apps/details?id=com.macros.hel
 
 Para que funcione correctamente, la aplicación debe conectarse a la aplicación mobile [Macros to HD2 Game](https://github.com/matias33pascual/macros-to-helldivers).
 
-Para conectar las aplicaciones puedes utilizar el [Manual de usuario]([https://sites.google.com/d/1wV6G_jgg0fkdAwXpqCNoDhmJfu0CHSRz/p/1F5WB34d2O7UOeURxEBLVzt9IqUOmI3kj/edit](https://sites.google.com/view/manual-macros-es/p%C3%A1gina-principal)).
+Para conectar las aplicaciones puedes utilizar el [Manual de usuario](https://sites.google.com/view/manual-macros-es/p%C3%A1gina-principal).
 
 Cualquier sugerencia, escribir a **matias33pascual@gmail.com**.
